@@ -1,3 +1,10 @@
+"""
+Installation and importing pyperclip might be necessary to run this code.
+This code is kept to how it is originally, even though, I have learned much more in computer science classes since
+writing this code.
+"""
+
+
 # import pyperclip
 import pyperclip
 
